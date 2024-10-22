@@ -9,10 +9,10 @@
 
 ## Endpoints for CRUD operations
 
-GET: http://localhost:3000/posts
-POST: http://localhost:3000/posts
-PATCH: http://localhost:3000/posts/{ID}
-DELETE: http://localhost:3000/posts/{ID}
+- GET: http://localhost:3000/posts
+- POST: http://localhost:3000/posts
+- PATCH: http://localhost:3000/posts/{ID}
+- DELETE: http://localhost:3000/posts/{ID}
 
 ## Utilize the provided endpoint to implement the following features
 
